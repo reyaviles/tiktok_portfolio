@@ -17,7 +17,7 @@ I'd like to find a way to parse so that upon a like, the counter goes from '221'
 4) fix React Ticker in the footer to stay in a single line [the home-roasting video is the main culprit]
 5) text and Views are kind of hard to read. Wonder if I can include an opacity filter underneath [rgba?]
 
-6) BONUS: If I'm feeling real adventurous, I'd like to display comments upon click. Unfortunately, these videos have been deleted on social, so I can't go in and grab comments, but the functionality and examples would still be fun to create.
+6) BONUS: If I'm feeling real adventurous, I'd like to display comments upon click. Unfortunately, these videos have been deleted on social, so I can't go in and grab real comments, but the functionality and examples would still be fun to create.
 
 
 HEY! Thanks for reading this. I hope you enjoy it
